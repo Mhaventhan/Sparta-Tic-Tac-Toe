@@ -1,0 +1,50 @@
+body {
+  font-family: Impact;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 60px;
+  text-align: center;
+}
+
+.dice {
+  height: 360px;
+  width: 354px;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.square {
+  border: 1px solid black;
+  height: 115px;
+  width: 114px;
+  display: inline-block;
+}
+
+.dot {
+  margin: 0 auto;
+  border-radius: 100%;
+  height: 74px;
+  width: 75px;
+  margin-top: 18px;
+  background-color: black;
+}
+
+.x{
+  background-color: royalblue;
+}
+
+.o{
+  background-color: orange;
+}
