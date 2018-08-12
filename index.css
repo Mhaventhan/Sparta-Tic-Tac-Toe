@@ -35,11 +35,15 @@ h2 {
 
 
 .x{
-  background-color: royalblue;
+background-image: url("img/cross.png");
+background-repeat: no-repeat;
+background-size: 110px;
 }
 
 .o{
-  background-color: orange;
+  background-image: url("img/note.png");
+  background-repeat: no-repeat;
+  background-size: 110px;
 }
 
 button{
