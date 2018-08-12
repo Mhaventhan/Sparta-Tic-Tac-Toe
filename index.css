@@ -1,0 +1,53 @@
+body {
+  font-family: Impact;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 60px;
+  text-align: center;
+}
+
+.dice {
+  height: 360px;
+  width: 354px;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.square {
+  border: 1px solid black;
+  height: 115px;
+  width: 114px;
+  display: inline-block;
+}
+
+
+
+.x{
+background-image: url("img/cross.png");
+background-repeat: no-repeat;
+background-size: 110px;
+}
+
+.o{
+  background-image: url("img/nought.png");
+  background-repeat: no-repeat;
+  background-size: 110px;
+}
+
+button{
+  text-align: center;
+  border-color: red;
+  margin: 0 40%;
+}
